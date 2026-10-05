@@ -4257,7 +4257,7 @@ No matching component was found for:
         rounded-full\r
         border\r
         border-blue-100/50\r
-    `}),(0,z.jsx)(`div`,{className:`relative z-10 flex items-end justify-center`,children:(0,z.jsx)(`img`,{src:`/images/profile.png`,alt:`Moh Yamin`,className:`\r
+    `}),(0,z.jsx)(`div`,{className:`relative z-10 flex items-end justify-center`,children:(0,z.jsx)(`img`,{src:`/portofolio/images/profile.png`,alt:`Moh Yamin`,className:`\r
     h-auto\r
     w-[420px]\r
     max-w-none\r
